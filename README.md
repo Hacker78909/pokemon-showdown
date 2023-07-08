@@ -3,5 +3,5 @@ Pokémon Showdown
   [1]: http://pokemonshowdown.com/
 Credits
 ------------------------------------------------------------------------
-Owner
+
 - hacker78909
